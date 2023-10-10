@@ -8,7 +8,7 @@
 |[Data augmentation for deep graph learning: A survey](https://dl.acm.org/doi/abs/10.1145/3575637.3575646)|ACM SIGKDD Explorations Newsletter 24.2 (2022)||
 |[A survey of data augmentation approaches for NLP](https://arxiv.org/abs/2105.03075)|arXiv preprint arXiv:2105.03075 (2021)||
 
-**relational data**
+**Relational data**
 | Paper | Conference | Remark |
 | :---:| :---:| :---:|
 |[Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation](https://dl.acm.org/doi/abs/10.1145/3514221.3517891))|SIGMOD 22||
